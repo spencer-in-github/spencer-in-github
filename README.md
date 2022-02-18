@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Spencer
 - 🌲 I'm a **Stanford Engineering** student (Go trees!)
 - 🔭 I’m working projects on **Data Analysis for Urban Systems**, **Integrated Infrastructure Design**, **Energy Efficiency Design**
-- 🔭 My prefered languages are **R**, **python**; but I can also deal with **SQL**, **Java**, **C**, and open&quick to learn all other
-- 🔭 My prefered methodologies include **Parametric modeling**, **Geospatial analysis**, **Life cycle analysis**, **Data analysis in general**
-- 🌱 My passion areas include **sustainability**, **life cycle analysis**, **electrificaiton**, **energy efficiency and reform**, **urban resource planning**, and **multipurpose infrastructure design**
+- 🔭 My prefered languages are **R**, **python**; but I can also do **Java**, **SQL**, **C**, and open&quick to learn all other
+- 🔭 My prefered methodologies include **Data analysis in general**, **Parametric modeling**, **Geospatial analysis**, **Life cycle analysis**
+- 🌱 My passion areas include **sustainability**, **life cycle analysis**, **electrificaiton**, **energy efficiency and reform**, **urban resource planning**, **multipurpose infrastructure design**, and **data visualization**
 - 💬 I'm actively looking for internship related to sustainability, energy, and urban systems data analysis, strategic planning, project management, and consultant
 - 📫 reach me at zhang99@stanford.edu or spencerzhang99@gmail.com
-- ⚡ Fun fact: I wake up to my yoga time every morning (even at 12PM )
+- ⚡ Fun fact: I LOVE my yoga 🧘‍, coffee ☕️, and all pastry 🥐!
 
 <!--
 **spencer-in-github/spencer-in-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
