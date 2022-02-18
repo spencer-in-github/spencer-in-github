@@ -14,6 +14,12 @@ My past projects:
 - Collaborative LCA project with [Rivian](https://rivian.com): Comparative LCA of second life application for Li-NMC622 EV batteries between recycling and repurposement
 - Independent research project with 1st author publication: [Biotransport of mercury and human methylmercury exposure through crabs in China A life cycle-based analysis](https://www.sciencedirect.com/science/article/pii/S0304389421006488?via%3Dihub) (under my legal name! Last name: Zhang)
 
+### Connect with me:
+
+[<img align="left" alt="spencerz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/spencerzhang99/
+<br />
 <!--
 **spencer-in-github/spencer-in-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
