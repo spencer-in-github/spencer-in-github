@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I LOVE my yoga 🧘‍, coffee ☕️, and all pastry 🥐!
 
 
-## My past projects:
+#### My past projects:
 - 40-year source apportionment air quality analysis in Fairbanks, Alaska
 - Collaborative LCA project with [Rivian](https://rivian.com): Comparative LCA of second life application for Li-NMC622 EV batteries between recycling and repurposement
 - Independent research project with 1st author publication: [Biotransport of mercury and human methylmercury exposure through crabs in China A life cycle-based analysis](https://www.sciencedirect.com/science/article/pii/S0304389421006488?via%3Dihub) (under my legal name! Last name: Zhang)
