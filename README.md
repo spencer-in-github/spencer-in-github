@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Spencer, a Stanford Student
+I'm passionate about environmental issues, urban resource planning, integrated infrastructure design, electrification, energy efficiency and energy reform...
+Everything sustainability!
 
 <!--
 **spencer-in-github/spencer-in-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
