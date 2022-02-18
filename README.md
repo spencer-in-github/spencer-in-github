@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm Spencer
 - 🌲 I'm a current **Stanford Engineering** student (Go trees!)
-- 🔭 I’m working projects on **Data Analysis for Urban Systems**, **Integrated Infrastructure Design**, **Energy Efficiency Design**
+- 🌱 I’m working projects on **Data Analysis for Urban Systems**, **Integrated Infrastructure Design**, **Energy Efficiency Design**
+- 🌱 My passion areas include **urban planning**, **multipurpose infrastructure design**, **data visualization**, **life cycle analysis**, **electrificaiton**, **energy efficiency and reform**, and everything related to **sustainability**
 - 🔭 My prefered languages are **R**, **python**; but I can also do **Java**, **SQL**, **C**, and open&quick to learn all other
 - 🔭 My prefered methodologies include **Data analysis in general**, **Parametric modeling**, **Geospatial analysis**, **Life cycle analysis**
-- 🌱 My passion areas include **urban planning**, **multipurpose infrastructure design**, **data visualization**, **life cycle analysis**, **electrificaiton**, **energy efficiency and reform**, and everything related to **sustainability**
 - 💬 I'm actively looking for internship related to sustainability, energy, and urban systems data analysis, strategic planning, project management, and consultant
 - 📫 reach me at zhang99@stanford.edu or spencerzhang99@gmail.com
 - ⚡ Fun fact: I LOVE my yoga 🧘‍, coffee ☕️, and all pastry 🥐!
 
 
-My past projects:
+## My past projects:
 - 40-year source apportionment air quality analysis in Fairbanks, Alaska
 - Collaborative LCA project with [Rivian](https://rivian.com): Comparative LCA of second life application for Li-NMC622 EV batteries between recycling and repurposement
 - Independent research project with 1st author publication: [Biotransport of mercury and human methylmercury exposure through crabs in China A life cycle-based analysis](https://www.sciencedirect.com/science/article/pii/S0304389421006488?via%3Dihub) (under my legal name! Last name: Zhang)
