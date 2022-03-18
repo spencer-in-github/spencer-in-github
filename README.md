@@ -10,8 +10,9 @@
 
 
 #### My past projects:
+- A series of [Urban System data analysis and visualization](https://spencer-in-github.github.io/sz-218Y.io/) in the Bay Area
 - 40-year source apportionment air quality analysis in Fairbanks, Alaska
-- Collaborative LCA project with [Rivian](https://rivian.com): Comparative LCA of second life application for Li-NMC622 EV batteries between recycling and repurposement
+- Collaborative LCA project with [Rivian](https://rivian.com): Comparative LCA of second life application for Li-NMC622 EV batteries between recycling and repurposement [writeup](https://drive.google.com/file/d/1166McHw-D-IAWxq_W_a7hV5whimoe-4z/view), [poster](https://drive.google.com/file/d/12LY8ht4VebTCPLk4TeCCzNqqzW_HZ7dj/view)
 - Independent research project with 1st author publication: [Biotransport of mercury and human methylmercury exposure through crabs in China A life cycle-based analysis](https://www.sciencedirect.com/science/article/pii/S0304389421006488?via%3Dihub) (under my legal name! Last name: Zhang)
 
 ### Connect with me:
