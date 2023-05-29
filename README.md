@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Spencer
-- 🌲 I'm a current **Stanford Engineering** student (Go trees!)
+- 🌲 I'm a current **Stanford Engineering** PhD student (Go trees!)
 - 🌱 I’m working projects on **Data Analysis for Urban Systems**, **Integrated Infrastructure Design**, **Energy Efficiency Design**
-- 🌱 My passion areas include **urban planning**, **multipurpose infrastructure design**, **data visualization**, **life cycle analysis**, **electrificaiton**, **energy efficiency and reform**, and everything related to **sustainability**
+- 🌱 My passion areas include **energy resource engineering**, **multipurpose infrastructure design**, **data visualization**, **life cycle analysis**, **electrificaiton**, **energy efficiency and reform**, and everything related to **sustainability**
 - 🔭 My prefered languages are **R**, **python**; but I can also do **Java**, **SQL**, **C**, and open&quick to learn all other
 - 🔭 My prefered methodologies include **Data analysis in general**, **Parametric modeling**, **Geospatial analysis**, **Life cycle analysis**
 - 💬 I'm actively looking for internship related to sustainability, energy, and urban systems data analysis, strategic planning, project management, and consultant
